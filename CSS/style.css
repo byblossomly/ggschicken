@@ -69,10 +69,13 @@ h3 {
 	
 }
 
+.PrimaryButton.PrimaryButton--standardTheme.ThemeableRectangularButtonPresentation{
+	background: green !important; 
+}
 
 
 input[type=text] {
-outline: none; 
+
  border-color: #014F37 !important;
 
 }
