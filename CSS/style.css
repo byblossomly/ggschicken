@@ -1,5 +1,16 @@
 /* for Asana form */
 
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap');
+
+@font-face {
+  font-family: "RestlessYouthSans";
+  src: url("./RestlessYouthSans-Regular.otf");
+
+}
+
+
+
+
 .asana-embed-container {
 	display: flex;
 	flex-direction: column;
@@ -51,13 +62,21 @@
 
 
 
-h3{
-font-size: 2vw;
+h3 {
+   font-size: 2vw !important;
+   font-family: "RestlessYouthSans", serif !important;
+   text-transform: uppercase !important;
+
 	
 }
 
 
-label{
-font-size: 1.2vw;
+input {
+ border-color: #014F37 !important;
 	
+}
+
+
+textarea {
+ border-color: #014F37 !important;
 }
