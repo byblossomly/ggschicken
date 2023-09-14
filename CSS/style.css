@@ -62,7 +62,7 @@
 
 
 
-h3 {
+.WorkRequestsFieldRow-name {
    font-size: 2vw !important;
    font-family: "RestlessYouthSans", serif !important;
    text-transform: uppercase !important;
@@ -71,7 +71,7 @@ h3 {
 }
 
 
-input {
+.WorkRequestsField-input {
  border-color: #014F37 !important;
 	
 }
