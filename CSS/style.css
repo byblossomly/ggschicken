@@ -80,6 +80,12 @@ input[type=text] {
   border-color: #014F37 !important;
 
 }
+.ValidatedTextInput-inputContainer {
+  outline: double !important;
+  outline-color: #ff0000 !important;
+  border-color: #014F37 !important;
+
+}
 
 textarea {
  	border-color: #014F37 !important;
